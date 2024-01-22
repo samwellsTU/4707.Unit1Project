@@ -9,6 +9,8 @@ In this project you will add Javascript code to two JS files: `script.js` and `M
 You will then export these classes and import them into `script.js` where you will define three `Artists`, one `Song` for each for the artist and then a `Playlist` that holds all three songs.
 
 ## Instructions
+Download the entire project repository to work on the assignment, or use GitHub Desktop to sync it to your local computer.
+
 Pick three songs that you would like to have on a playlist. Each song must be by a different artist.
 
 For each musician you will need to know:
